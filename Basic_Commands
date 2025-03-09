@@ -1,0 +1,4 @@
+pwd: Show the current directory (Print working directory)
+ls: List files and directories
+cd directoryname: Change to a directory
+cd ,,: Move up one directory level
