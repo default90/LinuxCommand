@@ -1,4 +1,10 @@
 pwd: Show the current directory (Print working directory)
 ls: List files and directories
 cd directoryname: Change to a directory
-cd ..: Move up one directory level
+cd ..: Move up one directory levelmkdir directoryname: Create a new directory
+rmdir directoryname: Remove an empty directory
+rm filename: Remove an empty directory
+rm -r directoryname: Remove a directory and its contents
+cp file1 file2: copy a file
+mv file1 file2: Move or rename a file
+touch filename: Create a new empty file
